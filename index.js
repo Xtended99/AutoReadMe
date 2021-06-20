@@ -34,32 +34,32 @@ inquirer
       {
        name: "proceed",
        type: "confirm",
-       message: "Would you like to proceed",
+       message: "Would you like to proceed? Press CTRL-C to exit",
       },
       {
        name: "t_itle",
        type: "input",
-       message: "The title for your project",
+       message: "The title for your project.",
       },
       {
        name: "d_escription",
        type: "input",
-       message: "Describe your project",
+       message: "Describe your project.",
       },
       {
        name: "i_nstallation",
        type: "input",
-       message: "How to install your project",
+       message: "How to install your project.",
       },
       {
        name: "u_suage",
        type: "input",
-       message: "How to use your app",
+       message: "How to use your app.",
       },
       {
        name: "l_icense",
        type: "list",
-       message: "Select licensing agreement for your project",
+       message: "Select licensing agreement for your project.",
        choices: [ 'BSD', 'GPL', 'LGPL', 'MIT', 'MPL' ],
 
        filter(val) 
@@ -70,37 +70,37 @@ inquirer
       {
        name: "c_ontribution",
        type: "input",
-       message: "Who has contributed to your project",
+       message: "Who has contributed to your project?",
       },
       {
        name: "t_ests",
        type: "input",
-       message: "How are tests initiated on your project",
+       message: "How are tests initiated on your project?",
       },
       {
        name: "q_uestion",
        type: "input",
-       message: "Do you have any questions",
+       message: "Do you have any questions for me? Use my email address.",
       },
       {
        name: "u_ser",
        type: "input",
-       message: "What is your GIT hub name",
+       message: "What is your GIT hub name?",
       },
       {
        name: "e_mail",
        type: "input",
-       message: "What is your email address",
+       message: "What is your email address?",
       },
       {
        name: "q_uestion2",
        type: "input",
-       message: "Do you have any questions",
+       message: "Provide the GIT Hub Repository Link?",
       },
       {
        name: "r_run",
        type: "input",
-       message: "Would like to re-run this tool",
+       message: "Would like to re-run this tool?",
       },
     ]
   )
