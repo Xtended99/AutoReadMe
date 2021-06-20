@@ -1,5 +1,5 @@
 # AutoReadME   
-#### License Type BSD [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)   
+#### License Type GPL [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)   
    
 #### Link access to the project page for "Auto Readme" [Repository Link](https://github.com/Xtended99/CoffeeOverFlow).   
 ## Table of Contents                 
@@ -16,27 +16,27 @@
 #### Description 1   
 ```   
 
-Build README.md automatically by answering questions   
+Build ReadME Automatically   
 ```    
 #### Installation 2   
 ```   
 
-USe the GITHUB Link   
+Use the project GIT Repository Link   
 ```    
 #### Usuage 3   
 ```   
 
-Run the following command form the CLI "node index.js"   
+run the following CLI command node index.js   
 ```    
 #### License 4   
 ```   
 
-BSD = Berkeley Source Distribution   
+GPL = General Public License   
 ```    
 #### Contribution 5   
 ```   
 
-No one but myself   
+No one but myslef   
 ```    
 #### Tests 6   
 ```   
