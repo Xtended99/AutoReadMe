@@ -7,8 +7,8 @@ WorkeReference
 
   The home for this project lives at the following link at GitHub https://github.com/Xtended99/AutoReadMe  
 
-![AutoReadMe Intro Screen](./assets/images/introscreen.png)
-![AutoreadMe MP4](./assets/videos/Untitled_ Jun 19, 2021 11_26 PM.mp4)
+![AutoReadMe Intro Screen](./assets/images/introscreen.png)   
+![AutoreadMe MP4](./assets/videos/Untitled_ Jun 19, 2021 11_26 PM.mp4)   
 
   This assignment is to create a tool that can auto generate aREADME.md file based on 12 predetermined questions.  
   There is a video link for show and tell
