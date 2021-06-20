@@ -80,6 +80,9 @@ WorkeReference
    
 ### All Question Answered Image
 
-![AutoReadMe Intro Screen](./assets/images/allquestionsanswered.png)   
+![AutoReadMe Fully Populated Screen](./assets/images/allquestionsanswered.png)   
+
+
+![AutoReadMe README.md Image ](./assets/images/readme.png)   
 
 
