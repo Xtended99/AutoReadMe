@@ -7,7 +7,7 @@ WorkeReference
 
   The home for this project lives at the following link at GitHub https://github.com/Xtended99/AutoReadMe  
 
-![portfolio demo](./assets/images.png)
+![portfolio demo](./assets/images/introscreen.png)
 
   This assignment is to create a site from the ground up. Zero code has been provided. The tools must with  
   there own set of tools and use the experince of the last two weeks to build this site. This assignment also 
