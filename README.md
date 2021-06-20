@@ -16,7 +16,7 @@ WorkeReference
    
 ![AutoreadMe MP4](./assets/videos/Jun_19_2021_11_26_PM.mp4)   
 
-#### Given:
+### Given:
 
    When creating an open source project on GitHub, it’s important to have a high-quality README   
    for the app. This should include what the app is for, how to use the app, how to install it,   
@@ -40,14 +40,14 @@ WorkeReference
    record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.   
    
    
-#### Experience the user should expect - User Story:   
+### Experience the user should expect - User Story:   
    
    AS A developer   
    I WANT a README generator   
    SO THAT I can quickly create a professional README for a new project   
   
   
-#### Website incorporated feature sets and expectations - Acceptance Criteria:  
+### Website incorporated feature sets and expectations - Acceptance Criteria:  
   
    GIVEN a command-line application that accepts user input   
    WHEN I am prompted for information about my application repository   
@@ -68,6 +68,6 @@ WorkeReference
    WHEN I click on the links in the Table of Contents   
    THEN I am taken to the corresponding section of the README   
   
- Installation instruction:   
+### Installation instruction:   
    
 
