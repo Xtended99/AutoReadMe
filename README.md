@@ -61,17 +61,17 @@ Given:
 
             -----------------------------------
 
-       Most if not all original selectors and elements where removed or compressed in order to refactor the HTML page
-         and make the style sheet more efficient. 
+       Most if not all original selectors and elements where removed or compressed in order to refactor the HTML page
+         and make the style sheet more efficient. 
 
 
-         Accesability features were added to the CSS Style sheet,
-          TAB order with black border highlight
-          Color hovering throughout the page
-         
-         I also took the liberty of changing the following 
-            Making the left and right panel match on the button margin
-            Enlarging and selecting a different so that is visually more accessible to a wider range of individuals 
+         Accesability features were added to the CSS Style sheet,
+          TAB order with black border highlight
+          Color hovering throughout the page
+         
+         I also took the liberty of changing the following 
+            Making the left and right panel match on the button margin
+            Enlarging and selecting a different so that is visually more accessible to a wider range of individuals 
             Added underlines to accentuate the links on the page
 
             -----------------------------------
@@ -158,7 +158,6 @@ Given:
          search-engine-reputation-media img set the propertiesd for all of the images. 
 
          The div footer was removed and converted to the HTML footer tag
-
 
 
 
