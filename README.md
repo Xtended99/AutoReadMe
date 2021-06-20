@@ -7,15 +7,11 @@ WorkeReference
 
   The home for this project lives at the following link at GitHub https://github.com/Xtended99/AutoReadMe  
 
-![portfolio demo](./assets/images/introscreen.png)
+![AutoReadMe Intro Screen](./assets/images/introscreen.png)
+![AutoreadMe MP4](./assets/videos/Untitled_ Jun 19, 2021 11_26 PM.mp4)
 
-  This assignment is to create a site from the ground up. Zero code has been provided. The tools must with  
-  there own set of tools and use the experince of the last two weeks to build this site. This assignment also 
-  makes use and and last weeks assignment.
-
-  Since I am building n my own the site I have added several CSS features for example tabbing, larger fonts,  
-  links on the top and on the bottom. As time goes on I will be continuing perfecting the site. We can say  this  
-  will be under construction for the next 24 weeks.
+  This assignment is to create a tool that can auto generate aREADME.md file based on 12 predetermined questions.  
+  There is a video link for show and tell
 
 Given:
 
