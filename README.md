@@ -75,5 +75,11 @@ WorkeReference
 
 ### Runtime Instructions:   
    
--    Once the repository and inquirer have been installed you can then ruin the following command   
+-    Once the repository and inquirer have been installed you can then run the following command   
 -    node index.js and follow the directions by answering every question.   
+   
+### All Question Answered Image
+
+![AutoReadMe Intro Screen](./assets/images/allquestionsanswered.png)   
+
+
