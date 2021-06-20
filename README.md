@@ -8,155 +8,63 @@ WorkeReference
   The home for this project lives at the following link at GitHub https://github.com/Xtended99/AutoReadMe  
 
 ![AutoReadMe Intro Screen](./assets/images/introscreen.png)   
+   
 ![AutoreadMe MP4](./assets/videos/Jun_19_2021_11_26_PM.mp4)   
-
+   
   This assignment is to create a tool that can auto generate aREADME.md file based on 12 predetermined questions.  
-  There is a video link for show and tell
+  There is a video link for show and tell directly below   
+   
+![AutoreadMe MP4](./assets/videos/Jun_19_2021_11_26_PM.mp4)   
 
 Given:
 
-  I have followed the guidelines and home work requirements to work with please see below for  
- modifications, changes additions and removal of no longer needed artifacts.
-
-    1. Read and observed the following Guidance Documents.
-
-      I.    Guidance doumnet at the root of the Course Directory - 
-      II.   Guidance doumnet at the root of the Course week Directory - 
-      III.  Guidance doumnet at the root of the Course week Directory Homework Directory - 
-      IV.   Guidance doumnet at the root of the Course week Directory Homework Guidance Directory - 
-
-
-   2. Experience the user should expect - User Story
-
-
-      I.    AS AN employer  
-      II    I WANT to view a potential employee's deployed portfolio of work samples  
-      III   SO THAT I can review samples of their work and assess whether they're a good candidate for an open position  
-  
-   3. Website incorporated feature sets and expectations - Acceptance Criteria  
-  
-      I.    GIVEN I need to sample a potential employee's previous work  
-      II.   WHEN I load their portfolio  
-      III.  THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them  
-      IV.   WHEN I click one of the links in the navigation  
-      V.    THEN the UI scrolls to the corresponding section  vim r
-      VI.   WHEN I click on the link to the section about their work  
-      VII   THEN the UI scrolls to a section with titled images of the developer's applications  
-      VIII. WHEN I am presented with the developer's first application  
-      IX.   THEN that application's image should be larger in size than the others  
-      X.    WHEN I click on the images of the applications  
-      XI.   THEN I am taken to that deployed application  
-      X.    WHEN I resize the page or view the site on various screens and devices  
-      XI.   THEN I am presented with a responsive layout that adapts to my viewport  
+   When creating an open source project on GitHub, it’s important to have a high-quality README   
+   for the app. This should include what the app is for, how to use the app, how to install it,   
+   how to report issues, and how to make contributions&mdash;this last part increases the likelihood   
+   that other developers will contribute to the success of the project.   
+   
+   You can quickly and easily create a README file by using a command-line application to generate one.   
+   This allows the project creator to devote more time to working on the project.   
+   
+   Your task is to create a command-line application that dynamically generates a professional README.md   
+   file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).   
+   Review the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)   
+   as a reminder of everything that a high-quality, professional README should contain.   
+   
+   The application will be invoked by using the following command:   
+   
+   node index.js   
+   
+   Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that   
+   demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to   
+   record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.   
+   
+   
+Experience the user should expect - User Story:   
+   
+   AS A developer   
+   I WANT a README generator   
+   SO THAT I can quickly create a professional README for a new project   
   
   
-   4. My Comments that are embedded into the HTML source file and the CSS Style sheet 
-      have been collected here for your convenince. Look for the seperating ----\
-      .
-      Thank You -- Angel Sosa
-
-
-            -----------------------------------
-
-       Most if not all original selectors and elements where removed or compressed in order to refactor the HTML page
-         and make the style sheet more efficient. 
-
-
-         Accesability features were added to the CSS Style sheet,
-          TAB order with black border highlight
-          Color hovering throughout the page
-         
-         I also took the liberty of changing the following 
-            Making the left and right panel match on the button margin
-            Enlarging and selecting a different so that is visually more accessible to a wider range of individuals 
-            Added underlines to accentuate the links on the page
-
-            -----------------------------------
-
-
-          This a generic selector  that selects all elements
-
-            -----------------------------------
-
-
-          This selector is for the "header element by setting the following values width, padding, background-color and color.
-
-            -----------------------------------
-
-
-          This is ther body selctor. This is setting the background color for the parts of the page that are exposed
-
-            -----------------------------------
-
-
-          This is the element for an unordered list. I kept the unordered list so that I can use a pseudo class first child selector
-          Please see below for li.company-name:first-child
-
-            -----------------------------------
-
-
-          The UL were wrapped in a NAV element to statisfy the requirements of the homework. 
-          This is a generic li to set the common proeperties
-
-            -----------------------------------
-
-
-          Specific proeprties had to be set in ordfewr fot to formatted left
-
-            -----------------------------------
-
-
-          Specific proeprties were set for the remianing li child elements.
-
-
-          hover, a:hover, visited were setup to natural interact with individuals that do not feel comfortable using a mouse.
-          You will also notice that the tab order has been set with in the html file
-
-            -----------------------------------
-
-
-          This is a paragrapgh element
-
-            -----------------------------------
-
-
-          hero, float-left, .float-right, .content, .p-side, .benefits are class that exist in the html file.
-
-            -----------------------------------
-
-
-          float left postions the image to the left 
-
-
-          float right postions the image to the right
-
-            -----------------------------------
-
-          Was convereted from div to section  and sets the following thrtee properies throughout the html
-         .content
-            -----------------------------------
-
-
-          p-side was created to set the properties seperately to the panal on the right hand side page
-
-            -----------------------------------
-
-
-          All of benefits selectors collapsed several html elements, benefits is the overarching sectionh,
-          benmefit-32 sets the margin and color
-          benefits 32 h3 sets the properties for h3 headers. 
-          benefits-32 img set the propertiesd for all of the images. 
-
-
-         All of search-engine-reputation-media selectors collapsed several html elements, 
-         search-engine-reputation-mediai, search-engine-reputation-media sets 
-              the margin, color, padding, weight, font family, background color
-         search-engine-reputation-media h2 sets the properties for h2 headers. 
-         search-engine-reputation-media img set the propertiesd for all of the images. 
-
-         The div footer was removed and converted to the HTML footer tag
-
-
-
-
+Website incorporated feature sets and expectations - Acceptance Criteria:  
+  
+   GIVEN a command-line application that accepts user input
+   WHEN I am prompted for information about my application repository
+   THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+   WHEN I enter my project title
+   THEN this is displayed as the title of the README
+   WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
+   THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+   WHEN I choose a license for my application from a list of options
+   THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+   WHEN I enter my GitHub username
+   THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+   WHEN I enter my email address
+   THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+   WHEN I click on the links in the Table of Contents
+   THEN I am taken to the corresponding section of the README
+  
+ Installation instruction:   
+   
 
